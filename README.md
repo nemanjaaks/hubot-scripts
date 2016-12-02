@@ -1,2 +1,2 @@
 # hubot-scripts
-Mini-eksperimenter med hubot
+Lek med hubot
